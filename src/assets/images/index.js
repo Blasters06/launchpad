@@ -14,5 +14,5 @@ export const CURRENCY = {
   42: ETH,
   56: BNB,
   97: BNB,
-  168587773: ETH,
+  168587773: BLAST,
 }

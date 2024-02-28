@@ -162,6 +162,14 @@ export const chainRouter = {
       ROUTER: "0xC3B6Bb923Cd49661563956730432c7aA97eF7f9B",
     },
   ],
+  168587773: [
+    {
+      name: "BlastSwap",
+      FACTORY: "0xBFa63ABfEe8b862D3c60753F6E0102C8441488f5",
+      WETH: "0x4200000000000000000000000000000000000023",
+      ROUTER: "0x5BBB7DB117d39C61F43cFeAccd22Ca20e4AcC628",
+    },
+  ],
 };
 
 
